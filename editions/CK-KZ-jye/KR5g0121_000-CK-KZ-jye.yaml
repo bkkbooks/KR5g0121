@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5g0121/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上大道玉清經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 02:56:22.788045'
+  source:
+    repository: kanripo
+    path: KR5g0121/KR5g0121_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:39db0b389ded49a6c69e21a769a1c1b60a993ef8b9def1926873acdc6f84c023

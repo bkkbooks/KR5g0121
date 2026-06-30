@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR5g0121/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0121/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上大道玉清經
+  date: '2015-08-29 02:56:22.788045'
+  source:
+    repository: kanripo
+    path: KR5g0121
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0121_000-CK-KZ-jye.yaml, hash: 'sha256:39db0b389ded49a6c69e21a769a1c1b60a993ef8b9def1926873acdc6f84c023'}
+  - {seq: 1, filename: KR5g0121_001-CK-KZ-jye.yaml, hash: 'sha256:db8a624ae139430b60f71d370cdf2a543162251458e85f6e2a19f2db374078fd'}
+  - {seq: 2, filename: KR5g0121_002-CK-KZ-jye.yaml, hash: 'sha256:dbfebf534e769c1ff260fbc497f5fc193f5ea6e7502a4655bd56c31e53544144'}
+  - {seq: 3, filename: KR5g0121_003-CK-KZ-jye.yaml, hash: 'sha256:5d03bd7910b66597ed3a29f5ae4b6670162a3d34042f6ed82892d7cc936f2b2b'}
+  - {seq: 4, filename: KR5g0121_004-CK-KZ-jye.yaml, hash: 'sha256:be021bcea7badcb3c304cffc9f1b45cc43c2a22a299636b6ec73fa63c7a736ea'}
+  - {seq: 5, filename: KR5g0121_005-CK-KZ-jye.yaml, hash: 'sha256:f7d2367eb4cf1ff741da03a6eb6f812523bc4a168d08ff4a80dcfd8215d08375'}
+  - {seq: 6, filename: KR5g0121_006-CK-KZ-jye.yaml, hash: 'sha256:9d2f668dd6aebf770252a150c815806ea6a3737b189adb394dadb20ebab144cc'}
+  - {seq: 7, filename: KR5g0121_007-CK-KZ-jye.yaml, hash: 'sha256:fcb66c8be1aea2df05a6c8c49aa9040c02359cd90ee51bd7f781a992dfc9d08d'}
+  - {seq: 8, filename: KR5g0121_008-CK-KZ-jye.yaml, hash: 'sha256:dc7e0ae0b9554805a832a058fbbc4850a5c14b8ae09c9360954c3f703358fbed'}
+  - {seq: 9, filename: KR5g0121_009-CK-KZ-jye.yaml, hash: 'sha256:a85cc857988984e23e1408d51795e5b367fcb5489fc00fe4f0da0852f5d8018e'}
+  - {seq: 10, filename: KR5g0121_010-CK-KZ-jye.yaml, hash: 'sha256:63bef7705c93f8c9445da876a792d8f8a0891255514a67522f33521791466443'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5g0121_001-CK-KZ-jye.markers.yaml, hash: 'sha256:c12642cb122e36cc5f375056a2f3c4d612b616f31c342c6cf32b232b19d294b2'}
+  - {seq: 2, role: markers, filename: assets/KR5g0121_002-CK-KZ-jye.markers.yaml, hash: 'sha256:695ed9ff73a5b8b4fc0690dace14b703a411775a99dc2d8e460133629d296da7'}
+  - {seq: 3, role: markers, filename: assets/KR5g0121_003-CK-KZ-jye.markers.yaml, hash: 'sha256:b3219a05f138a493287b560c32ddcf3994281eda4bd0abde81aac75a03448c7b'}
+  - {seq: 4, role: markers, filename: assets/KR5g0121_004-CK-KZ-jye.markers.yaml, hash: 'sha256:a2500ce1947c6bba6a5e2d3bdcc84c66e7fbdef1798d007d4a99c0e54d5cd7ca'}
+  - {seq: 5, role: markers, filename: assets/KR5g0121_005-CK-KZ-jye.markers.yaml, hash: 'sha256:317aef27ae22d1c9e5bd5d8792e970c10551dda43a70d129859bf65b8c045477'}
+  - {seq: 6, role: markers, filename: assets/KR5g0121_006-CK-KZ-jye.markers.yaml, hash: 'sha256:1c402bc2e046791d13ecba47a6bab5db09353818d85d368b6eedeb74b63c4b69'}
+  - {seq: 7, role: markers, filename: assets/KR5g0121_007-CK-KZ-jye.markers.yaml, hash: 'sha256:aa8ab762cb6776dd78a8b2c7867792067b26847f7a9061150d0195d36f3836ed'}
+  - {seq: 8, role: markers, filename: assets/KR5g0121_008-CK-KZ-jye.markers.yaml, hash: 'sha256:6bab66b6c36a7b502ddfeb3c867ea66487019c422e388450509969bfb43a9c3d'}
+  - {seq: 9, role: markers, filename: assets/KR5g0121_009-CK-KZ-jye.markers.yaml, hash: 'sha256:466ab024c1faba710294dc1a33e506de63d1cccff46bed923fe3d2c8ee529259'}
+  - {seq: 10, role: markers, filename: assets/KR5g0121_010-CK-KZ-jye.markers.yaml, hash: 'sha256:0b205f4780faf0c3ab48dc2d85425fca48e2a72e7183821409e32974932ba0df'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5g0121_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 3977
+  label: 本起品第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0121_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 3977
+    - 6669
+  label: 緣對品第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0121_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 6669
+    - 8868
+  label: 世界品第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0121_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 8868
+    - 10825
+  label: 慈悲戒序品第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0121_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 10825
+    - 13134
+  label: 說戒科品第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0121_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 11181
+  label: 慈悲方便品第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0121_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 8708
+  label: ¶<md:KR5g0121_HFL_003-001a>¶¶　通濟幽㝠品第八
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0121_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 2416
+  label: 上元品第九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0121_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 2416
+    - 4826
+  label: 中元品第十¶<md:KR5g0121_HFL_004-008b>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0121_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 4826
+    - 8847
+  label: 下元品第十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0121_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 8847
+    - 9239
+  label: 三元寶經流通品第十二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0121_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 5812
+  label: 八節品第十三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5g0121_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 5812
+    - 8490
+  label: 齋戒品第十四¶<md:KR5g0121_HFL_005-018b>
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0121_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 0
+    - 5236
+  label: 昭靈品第十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5g0121_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 5236
+    - 8285
+  label: 威魔品第十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5g0121_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 12644
+  label: 道化四夷品第十七
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5g0121_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 8058
+  label: 幽棲品第十八
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5g0121_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 7316
+  label: 明威眞人威邪品第十九
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5g0121_CK-KZ-jye_010-h1
+    span:
+    - body
+    - 0
+    - 9912
+  label: 法印品第二十
+  type: section
+  level: 2
+hash: sha256:a88c113afcc905db2a19fe0728df0be3b25c15d077b496c35bd243d50dc40f36
